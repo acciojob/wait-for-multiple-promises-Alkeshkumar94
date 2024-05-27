@@ -1,7 +1,7 @@
 //your JS code here. If required.
 document.addEventListener("DOMContentLoaded", async function () {
   const output = document.getElementById("output");
-  const loadingRow = document.getElementById("loading-row");
+  const loadingRow = document.getElementById("loading");
 
   // Function to create a promise that resolves after a random time between 1 and 3 seconds
   function createRandomPromise(index) {
