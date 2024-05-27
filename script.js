@@ -17,9 +17,7 @@ document.addEventListener("DOMContentLoaded", async function () {
   const promises = [
     createRandomPromise(1),
     createRandomPromise(2),
-    createRandomPromise(3),
-    createRandomPromise(4)
-	  
+    createRandomPromise(3)  
   ];
 
   // Wait for all promises to resolve
