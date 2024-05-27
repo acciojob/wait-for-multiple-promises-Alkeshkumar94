@@ -18,8 +18,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     createRandomPromise(1),
     createRandomPromise(2),
     createRandomPromise(3),
-    createRandomPromise(4),
-    createRandomPromise(5)
+    createRandomPromise(4)
 	  
   ];
 
